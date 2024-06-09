@@ -1,0 +1,64 @@
+Img map
+
+    geluid
+        audio.mp3
+            https://www.youtube.com/watch?v=g1vl08i04G0&ab_channel=FauxDolphin62
+    
+        pokemon.mp3
+            https://www.youtube.com/watch?v=rg6CiPI6h2g&ab_channel=kerwinpogi092
+
+
+
+    font
+        pokemon solid.ttf
+            https://www.dafont.com/pokemon.font
+
+
+
+    fotos/gif
+        battle.png
+            https://www.deviantart.com/peregrinethegryphon/art/Free-Pokemon-Battle-Template-217535420
+
+         cel.gif
+            https://www.digitalspy.com/tv/ustv/a866102/pokemon-anime-series-bringing-back-brock-misty/
+
+        challenge.png
+            https://www.deviantart.com/asmaee/art/You-are-challenged-by-Pokemon-Trainer-template-503622297
+
+        gyarados-b.png
+            https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon)
+
+        gyarados.png
+            https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pokémon)
+
+        lost.png
+            https://www.pokemon.com/us/pokemon-news/watch-ash-lose-tournaments-in-pokemon-the-series-on-pokemon-tv
+
+        sd.gif
+            https://i.gifer.com/YQDj.gif
+
+        Start.png
+            https://dotesports.com/pokemon/news/10-best-pokemon-gym-leaders-ranked
+
+        Swampert-b.png
+            https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pokémon)
+
+        Swampert.png
+            https://bulbapedia.bulbagarden.net/wiki/Swampert_(Pokémon)
+
+        voltorb-a.png
+            https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon)
+
+        voltorb.png
+            https://bulbapedia.bulbagarden.net/wiki/Voltorb_(Pokémon)
+            
+How i knew how to do some stuff
+
+    health bar 
+        https://stackoverflow.com/questions/20277052/how-to-make-a-health-bar
+
+    audio 
+        https://stackoverflow.com/questions/9419263/how-to-play-audio
+
+    counter
+        https://medium.com/geekculture/creating-counter-with-javascript-4b1c60892c45

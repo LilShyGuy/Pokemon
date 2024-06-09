@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon gym</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+
+<body>
+    <div id="intro">
+    <button id="startknop">Congrats you're the water gym leader!<br> Press anywhere to start</button>
+    </div>
+
+    <audio id="myAudio" src="img/pokemon.mp3" autoplay></audio>
+
+    <div id="battlestart" class="hidden">
+    <div id="challenge" ></div>
+    </div>
+
+
+   
+        <div  id="back" class="hidden">
+            <div class="counter">
+            <div id="win-counter"></div>
+            <div id="lose-counter"></div>
+            </div>
+            <progress id="health" value="100" max="100"></progress>
+
+            <img src="img/voltorb.png" alt="voltorb" id="enemy">
+            <img src="img/sd.gif" alt="explosion" id="sd" class="hidden">
+
+            <p id="naam"></p>
+
+            <progress id="healthy" value="100" max="100" class="hidden"></progress>
+            
+            <div id="choose">
+                <button id="swampert"><img src="img/swampert.png" alt="Swampert">Swampert</button>
+                <button id="gyarados"><img src="img/gyarados.png" alt="Gyarados">Gyarados</button>
+            </div>
+
+            <div id="swampie" class="hidden" >
+                <img src="img/swampert-b.png" alt="swampert" >
+            </div>
+            <div id="gyara" class="hidden">
+                <img src="img/gyarados-b.png" alt="gyarados">
+            </div>
+
+            <div id="bga">   
+            <div id="attacks" class="hidden">
+                <button id="tackle">Tackle</button>
+                <button id="earthquake">Earthquake</button>
+                <button id="watergun">Water  Gun</button>
+                <button id="emptyattack">Random Attack</button>
+            </div>
+            
+                <div id="attacked" class="hidden">
+                    <h3>Swampert</h3>
+                </div>
+            </div>
+        </div>
+
+    <div id="won" class="hidden">
+        <div id="gewonnen">
+            <h1>You Won, reload if you want to try again!</h1>
+             <button id="retry">Try again</button>
+        </div>
+
+   
+     </div>
+
+    <div id="lost" class="hidden">
+        <div id="loser">
+        <h1 id="pp">You lost, reload if you want to try again!</h1>
+        <button id="Letry">Try again</button>
+        </div>
+    </div>
+
+
+    <script src="js/script.js"></script>
+</body>
+</html>
